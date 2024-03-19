@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_LINK: your rom's direct link
-  ROM_LINK: https://www.mediafire.com/file/0ul393i7ec3zbj3/Infinix_Smart_6_Plus_X6511G_MT6761_V234_220124_11.zip
+  ROM_LINK: https://cdn-ota.azureedge.net/V12.5.3.0.QFGMIXM/miui_LAVENDERGlobal_V12.5.3.0.QFGMIXM_0baf420181_10.0.zip
   ROM_TYPE: oem
   BUILD_AB: true
   BUILD_AONLY: false
